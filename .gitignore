@@ -1,0 +1,4 @@
+node_modules
+# In a production application this .env file has to be ignored and avoid send it to the repo
+# because it can contain private information.
+#.env
